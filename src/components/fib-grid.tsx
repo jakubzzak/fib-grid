@@ -3,7 +3,7 @@ import { FibonacciSequenceService } from '../services/fibonacci-sequence.service
 
 const fibSequence = new FibonacciSequenceService();
 const DEFAULT_GRID_SIZE = 10;
-const FIB_SEQUENCE_LENGTH = 4;
+const FIB_SEQUENCE_LENGTH = 5;
 enum Colors {
   Default = '#1A1A1A',
   Yellow = '#F3C92FFF',

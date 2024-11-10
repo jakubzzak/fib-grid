@@ -59,6 +59,8 @@ thoughts of how I would continue improving this prototype.
 - Make the UI more visually appealing, use better color pallet and explain
   better, show metadata such as moves & transactions
 - Introduce leaderboard of the most successful players
+- Make the size of the grid customizable (for now it was set to 10x10 for visual
+  convenience)
 
 ### Tech
 
